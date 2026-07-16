@@ -19,22 +19,7 @@
 
 <!-- ═══════════════════════════ THE PET ═══════════════════════════ -->
 
-<div align="center">
-<table>
-<tr>
-<td width="170" align="center">
-<img src="assets/aircontrol-pet.svg" width="160" alt="The AirControl pet"/>
-</td>
-<td>
-
-[![Pet says](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=900&color=7DD3FC&width=460&lines=beep+boop.+welcome+to+Rajdeep's+corner+of+GitHub.;he's+probably+training+a+world+model+right+now.;I+keep+him+company+while+the+GPUs+run.;ask+him+about+agents+that+know+when+to+stop+and+ask.;scroll+down.+the+good+stuff+is+below.)](https://rajdeeepm.github.io/)
-
-<sub>This is the **AirControl** pet — mascot of an app I'm building. It lives here now and supervises all commits.</sub>
-
-</td>
-</tr>
-</table>
-</div>
+<img src="assets/aircontrol-pet_animation.svg" width="100%" alt="The AirControl pet on patrol"/>
 
 ---
 
