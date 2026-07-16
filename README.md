@@ -15,6 +15,27 @@
 
 </div>
 
+<br>
+
+<!-- ═══════════════════════════ THE PET ═══════════════════════════ -->
+
+<div align="center">
+<table>
+<tr>
+<td width="170" align="center">
+<img src="assets/aircontrol-pet.png" width="150" alt="The AirControl pet"/>
+</td>
+<td>
+
+[![Pet says](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=900&color=7DD3FC&width=460&lines=beep+boop.+welcome+to+Rajdeep's+corner+of+GitHub.;he's+probably+training+a+world+model+right+now.;I+keep+him+company+while+the+GPUs+run.;ask+him+about+agents+that+know+when+to+stop+and+ask.;scroll+down.+the+good+stuff+is+below.)](https://rajdeeepm.github.io/)
+
+<sub>This is the **AirControl** pet — mascot of an app I'm building. It lives here now and supervises all commits.</sub>
+
+</td>
+</tr>
+</table>
+</div>
+
 ---
 
 ## Research thesis
@@ -73,7 +94,8 @@ class Rajdeep:
         self.exploring  = ["model-based RL", "memory", "post-training",
                            "evaluations that expose failures aggregate metrics hide"]
         self.previously = "AWS SageMaker AI — shipped a production agentic LLM system"
-        self.building   = "MealMap — a decision engine for what to eat next"
+        self.building   = ["AirControl — the robot above is its pet",
+                           "MealMap — a decision engine for what to eat next"]
         self.foundation = ["probability & statistics", "Bayesian ML",
                            "optimization", "mathematics minor"]
 ```
