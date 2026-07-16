@@ -23,7 +23,7 @@
 <table>
 <tr>
 <td width="170" align="center">
-<img src="assets/aircontrol-pet.png" width="150" alt="The AirControl pet"/>
+<img src="assets/aircontrol-pet.svg" width="160" alt="The AirControl pet"/>
 </td>
 <td>
 
