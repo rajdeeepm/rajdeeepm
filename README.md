@@ -27,7 +27,7 @@
 
 > **An intelligent agent should do more than predict a plausible next action.** It should understand the situation it is in, remember what matters, anticipate how the world may change, and recover when its assumptions are wrong.
 
-My work sits at the intersection of **reinforcement learning, multimodal AI, world models, memory, and computer-use agents** — building agents that remain reliable over long horizons and under distribution shift, not merely systems that look impressive on a benchmark.
+My work sits at the intersection of **reinforcement learning, multimodal AI, world models, memory, and computer-use agents** — building agents that remain reliable over long horizons and under distribution shift, not merely systems that look impressive on a benchmark. One question that I'm exploring right now is: Do modern day LLMs have what it takes to truly understand what is going on and?
 
 <br>
 
