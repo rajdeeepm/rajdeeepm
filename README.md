@@ -23,7 +23,7 @@
 
 ---
 
-## Research thesis
+## Research North Star
 
 > **An intelligent agent should do more than predict a plausible next action.** It should understand the situation it is in, remember what matters, anticipate how the world may change, and recover when its assumptions are wrong.
 
