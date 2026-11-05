@@ -2,9 +2,9 @@
 
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00274C,50:1B4B7A,100:FFCB05&height=210&section=header&text=Rajdeep%20Mukherjee&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=World%20Models%20%C2%B7%20Reinforcement%20Learning%20%C2%B7%20Quantitative%20Research&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00274C,50:1B4B7A,100:FFCB05&height=210&section=header&text=Rajdeep%20Mukherjee&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=World%20Models%20%C2%B7%20Reinforcement%20Learning%20%C2%B7%20Reliable%20Agents&descSize=18&descAlignY=55" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=FFCB05&center=true&vCenter=true&width=760&lines=I+build+agents+that+remember%2C+reason%2C+and+act.;And+I+study+why+they+fail.;World+models+%7C+RL+%7C+Multimodal+agents+%7C+Rigorous+evaluation;Quantitative+research+%7C+Forecasting+%7C+Markets;M.S.E.+CSE+%40+University+of+Michigan+%C2%B7+ex-AWS)](https://rajdeeepm.github.io/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=FFCB05&center=true&vCenter=true&width=760&lines=I+build+agents+that+remember%2C+reason%2C+and+act.;And+I+study+why+they+fail.;World+models+%7C+RL+%7C+Multimodal+agents+%7C+Rigorous+evaluation;M.S.E.+CSE+%40+University+of+Michigan+%C2%B7+ex-AWS)](https://rajdeeepm.github.io/)
 
 <br>
 
@@ -68,29 +68,6 @@ Controllable and factual language generation; summarization, reasoning, and info
 
 <br>
 
-## Quantitative research | Markets, uncertainty & decision-making
-
-> **A forecast is only useful if it survives rigorous testing.** I am interested in separating genuine predictive information from noise, measuring uncertainty honestly, and understanding when a model's apparent edge disappears under stronger baselines or changing conditions.
-
-Alongside my work on intelligent agents, I explore **quantitative research** through probabilistic modeling, statistical learning, and empirical evaluation. Financial markets are particularly interesting to me because they combine noisy observations, strategic behavior, non-stationarity, and decisions with real consequences. My interests include **time-series and state-space models, Bayesian inference, Monte Carlo methods, predictive signal discovery, calibration, market dynamics, and risk-aware decision-making**.
-
-### Research and projects
-
-| Project | Quantitative questions and methods |
-|---------|------------------------------------|
-| **[SportsWorld — probabilistic forecasting](https://github.com/rajdeeepm/SportsWorld)** | Kalman-filtered latent strengths, 10,000 Monte Carlo season simulations per league, correlated-outcome uncertainty, chronological holdouts, walk-forward testing, and game-clustered confidence intervals. Compares forecasts to market-implied probabilities rather than assuming that a complex model adds value. **[Research report](https://github.com/rajdeeepm/SportsWorld/blob/main/docs/research_report.md)**. |
-| **[Personal Quant Dashboard — market research tooling](https://github.com/rajdeeepm/stocks-dashboard)** | Cross-market equity and ETF monitoring; momentum, volatility, drawdown, RSI, correlation, signal histories, data-source freshness, and a simulated paper-trading journal. Retrospective basket analyses are **exploratory, not validated point-in-time backtests**; the repository documents look-ahead, transaction-cost, and execution limitations. |
-
-### Questions I'm exploring
-
-- **Signal versus noise:** When does a predictive relationship remain useful out of sample, after realistic frictions and comparisons with strong market benchmarks?
-- **Uncertainty and dependence:** How should correlated outcomes, latent-state uncertainty, and distribution shift change forecasts and decisions?
-- **Model complexity versus evidence:** When does a more sophisticated model improve calibration or predictive performance—and when is a simple baseline more trustworthy?
-
-I am especially interested in research where a compelling hypothesis must be backed by **reproducible experiments, honest baselines, and uncertainty-aware evaluation**.
-
-<br>
-
 ## Right now
 
 ```python
@@ -103,8 +80,6 @@ class Rajdeep:
                            "reliable computer-use agents"]
         self.exploring  = ["model-based RL", "memory", "post-training",
                            "evaluations that expose failures aggregate metrics hide"]
-        self.quant       = ["probabilistic forecasting", "market research",
-                            "calibration & robust evaluation"]
         self.previously = "AWS SageMaker AI — shipped a production agentic LLM system"
         self.building   = ["AirControl — the robot above is its pet",
                            "MealMap — a decision engine for what to eat next"]
@@ -134,8 +109,6 @@ class Rajdeep:
 |---------|------------------------|--------|
 | **Memory-Augmented Multimodal Web Agent** | Screenshot + speech + reasoning + retrieval + browser-action pipeline with long-term vector memory | **WebShop 45% → 52%** · **WebArena 15% → 24%** |
 | **AWS SageMaker Ground Truth** | Agentic LLM config generation, multi-model eval harness, synthetic data, PEFT, quantization, RAG tooling | **24x faster**, **99%+ accuracy** in internal eval |
-| **[SportsWorld](https://github.com/rajdeeepm/SportsWorld)** | Kalman state-space models, Monte Carlo season simulation, probabilistic calibration, and chronological held-out forecasts | **10,000 simulations/league** · [Research report](https://github.com/rajdeeepm/SportsWorld/blob/main/docs/research_report.md) |
-| **[Personal Quant Dashboard](https://github.com/rajdeeepm/stocks-dashboard)** | Market data, time-series signals, volatility/drawdown, portfolio monitoring, and exploratory retrospective analyses | **Cross-market research sandbox** · explicitly documented backtest limits |
 | **Aero-LLM** | Distributed LLM framework for secure UAV communication and intelligent decision-making; led team, designed architecture, fine-tuned with SFT + RLHF | **IEEE ICCCN 2024** |
 | **Net-GPT** | LLM-powered man-in-the-middle chatbot for UAV network security research; 95%+ next-packet prediction accuracy | **ACM/IEEE EdgeSP 2023** |
 
@@ -150,8 +123,6 @@ What should long-term memory retain, revise, or forget?
 When should an agent stop and ask, instead of guessing and acting?
 How do we distinguish genuine reasoning from benchmark-shaped pattern matching?
 What evaluations reveal failures that aggregate success rates conceal?
-When does a predictive signal survive changing regimes and strong market baselines?
-How does uncertainty about the world change the decisions we should make?
 ```
 
 These questions also shape my writing series, **Diary of an ML Researcher**, where I turn deceptively simple AI questions into concrete research problems.
